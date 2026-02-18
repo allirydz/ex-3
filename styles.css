@@ -1,8 +1,12 @@
 html{
 background-color: rgb(165, 219, 216);
 color: rgb(46, 77, 137);
-font-family: "SN Pro", sans-serif;
+font-family: "Oswald", sans-serif;
+
 }
 .address{
     text-align: right;
+}
+.site-id{
+    font-size: 48px;
 }
